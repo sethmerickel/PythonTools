@@ -1,2 +1,2 @@
 # PythonTools
-Random Python Stuff Primarily related to Computer Vision
+Random Python Stuff Primarily Related to Computer Vision
